@@ -1,0 +1,22 @@
+
+/** layout **/
+.clr {overflow: hidden; _width: 100%;}
+.clear {clear: both; width: 0; height: 0;}
+.hid {display: none;}
+.lt {float: left; _display: inline;}
+.rt {float: rt; _display: inline;}
+
+.inside {width: 960px; margin: 0 auto;}
+.center {text-align: center; margin: 0 auto;}
+
+/* css3 */
+.brd5 {border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+.brd10 {border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;}
+
+.brd10bot {border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; 	-moz-border-radius-bottomright: 10px;	-webkit-border-bottom-right-radius: 10px;}
+
+.op4 {filter:alpha(opacity=40); opacity: 0.4;}
+.op6 {filter:alpha(opacity=60); opacity: 0.6;}
+.op8 {filter:alpha(opacity=80); opacity: 0.8;}
+
+.shadow {box-shadow: 0 0 10px rgba(0,0,0,0.5); -moz-box-shadow: 0 0 10px rgba(0,0,0,0.5); -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);}
